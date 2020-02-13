@@ -1,0 +1,12 @@
+name: migration-photoperiod
+title: migration-photoperiod
+username:
+account: hurlbertlab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1323302
+bundleId: 2510104
+url: https://hurlbertlab.shinyapps.io/migration-photoperiod/
+when: 1571359171.89614
+asMultiple: FALSE
+asStatic: FALSE
