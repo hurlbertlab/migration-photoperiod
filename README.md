@@ -9,7 +9,7 @@ A shiny app for visualizing how photoperiod and total daylight exposure varies w
 Access the shinyapp through your browser here: https://hurlbertlab.shinyapps.io/migration-photoperiod/
 
 # Local installation
-1. If you have R/RStudio installed locally, you can run the app on your own machine.
+1. If you have R and RStudio installed locally, you can run the app on your own machine.
 2. Load the shiny app library by typing `library(shiny)`. If you have never used this package before, you will first need to load it: `install.packages("shiny")`.
 3. Clone the repository to your machine.
 4. Open the folder for the repository (titled "migration-photoperiod") wherever it was saved on your machine.
